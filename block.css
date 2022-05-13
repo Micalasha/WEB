@@ -1,0 +1,40 @@
+.block{
+    width: 180px;
+    height: 450px;
+    border: 2px solid grey;
+}
+
+.red {
+    background:#666;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border:3px solid #222;
+    margin-left: 25px;
+    margin-top: 16px;
+    background-color:blue;
+}
+
+.yellow {
+    background:#666;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border:3px solid #222;
+    margin-left: 25px;
+    margin-top: 16px;
+    background-color:yellow;
+}
+
+.green {
+    background:#666;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border:3px solid #222;
+    margin-left: 25px;
+    margin-top: 16px;
+    background-color:green;
+}
+}
+

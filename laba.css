@@ -1,0 +1,35 @@
+header{
+    margin-top: 50px;
+}
+.navbar-wrap {
+    width: 100%;
+    height: 90;
+    margin-left: 100;
+    padding: 100;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, .1);
+    border-width: 2px;
+    border-style:dotted;
+}
+.navbar-wrap ul,
+.navbar-wrap ol{
+    list-style: none;
+}
+
+.navbar-wrap ul li a{
+    padding: 10px;
+    margin: 2px;
+    text-decoration: none;
+    color: blue;
+    display:block;
+    border: 1px solid blue;
+}
+
+.navbar-wrap li {
+
+    width: 145px;
+}
+
+.navbar-wrap li a:hover {
+    font-weight: bold;
+    color:blue;
+}
